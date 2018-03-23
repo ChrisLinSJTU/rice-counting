@@ -1,5 +1,5 @@
-# rice-counting
-This is a rice counting algorithm. 
+# Rice-counting
+This is a rice counting algorithm. We run the code in MARLAB 2016b. 
 
 First, run the get_average_area.m script to get the average area of each rice grains. To simplify the image preprocessing, some of the Non-target object in the image have been artificially removed. The image is showed below.
 
