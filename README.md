@@ -9,4 +9,4 @@ Second, run the get_avg_fre_without_overlap.m to get the average frequency of th
 
 Finally, run the cal_number_of_rice.m to caltulation the number of rice in the image we provided.
 
-![image](https://github.com/ChrisLinSJTU/rice-counting/raw/master/image-in-readme/sample_img.jpg)
+![image](https://github.com/ChrisLinSJTU/rice-counting/raw/master/image-in-readme/sample_img.png)
